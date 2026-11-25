@@ -1,0 +1,15 @@
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/home/klamen555/Documents/Předměty/PvA/PVA-repozit--/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
